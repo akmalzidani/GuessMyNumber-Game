@@ -1,6 +1,8 @@
 # GuessMyNumber-Game
  Simple Mini Games created by HTML CSS and Javascript
 
+Live demo : https://akmalzidani.github.io/GuessMyNumber-Game/
+
 Cara bermain :
 1. Input angka antara 1-20.
 2. Klik button Check.
